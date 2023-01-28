@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning with help from [docs.github.com](docs.github.com)
+- 💬 Ask me about my school
 <!--
 **andrewtan2000/andrewtan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
